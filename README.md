@@ -14,11 +14,13 @@ https://github.com/abhijeetdiwate-20/digital_-literacy/tree/006481b19f4aa5b467ac
 <h2>📂 Task 2: Digital Portfolio</h2>
 <h3>In this task, I created my digital portfolio using platforms like GitHub, LinkedIn, and Kaggle. These platforms help in building a professional online presence. GitHub is useful for sharing projects, LinkedIn helps in networking, and Kaggle helps in exploring research work. This task helped me understand how these platforms can support my academic and career growth.</h3>
 <h2>linkedin: www.linkedin.com/in/abhijeet-diwate-915a533ba</h2>
-<h2>github: https://github.com/abhijeetdiwate-20/abhijeetdiwate-20.git</h2>
-<h2>kaggle: https://www.kaggle.com/abhijeetsachindiwate</h2>
-<h2>💻 Task 3: Coding & Collaboration Platforms</h2>
+<h3>github: https://github.com/abhijeetdiwate-20/abhijeetdiwate-20.git</h3>
+<h3>kaggle: https://www.kaggle.com/abhijeetsachindiwate</h3>
+<h3>💻 Task 3: Coding & Collaboration Platforms</h3>
 
 <h3>In this task, I used HackerRank to solve a basic programming problem, which helped me improve my logic and coding skills. I also created a Google Form as a digital literacy quiz. This helped me learn how to create surveys and collect responses. Overall, this task gave me practical experience with useful digital tools.</h3
-google form:                                                                                                                                                                                                                                                                                                                                      
+<h3>https://github.com/abhijeetdiwate-20/digital_-literacy/blob/d0d6bfb6eaa600de7c1c9031f16d23d3f494afe7/task-3-platform/google%20form.pdf</h3>  
+<h2>📧 Task 4: Email Etiquette & Communication</h2>
+<h3>In this task, I learned how to write professional emails. I created two emails—one for requesting an assignment extension and another for applying for an internship. I also made a social media checklist, which helped me understand responsible online behavior. This task improved my communication skills.</h3>
                                                                                                                                                                                                                                                                                                                                      .
                                                                                                                                                                                                                                                                                                                                      >
